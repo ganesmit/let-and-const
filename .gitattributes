@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+ES2015 Global Constants
+const PI = 3.14;
+PI = 42; // Error!
